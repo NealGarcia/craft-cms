@@ -1,0 +1,22 @@
+dateModified: 1658434283
+email:
+  fromEmail: nathlngarcia@gmail.com
+  fromName: craft-tutorial
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2fec0931-3bd8-418b-b2e2-ecb8856a505f: Common
+    6d5ba914-c2a9-4305-9022-b68a850ca131: craft-tutorial
+    15cc8abd-1a88-4529-82ff-003ffbf858ec: craft-tutorial
+system:
+  edition: solo
+  live: true
+  name: craft-tutorial
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
